@@ -10,3 +10,33 @@ within a fraction of the time.
 
 
 ![](https://github.com/Yashzyash/Web-Scarfing-Using-Java/blob/master/imgs/webscarfed_from_imdb.png)
+
+
+As shown in the above image, the most popular Netflix Series Information such as
+ + Title
+ + Year
+ + Genre
+ + Rating
+
+Backend Functionality:
+
+  The web url (https://www.imdb.com/search/keyword/?keywords=netflix-original) connection and data gathering are done with Jsoup library. 
+
+Note:
+
+  Please do the proxy settings if you are working in corporate industries because it might result you in UnknownHostException 
+
+  java.net.UnknownHostException: www.imdb.com
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:184)
+  
+  
+Solution for UnknownHostException:
+
+ + set HTTP proxy Host
+   System.setProperty("https.proxyHost", ********);
+ + set HTTP proxy port to 8080
+   System.setProperty("https.proxyPort", "8080");
+ + set HTTP proxyUser
+   System.setProperty("https.proxyUser", "******");
+ + set HTTP proxyPassword
+   System.setProperty("https.proxyPassword", "******");
