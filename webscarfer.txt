@@ -1,0 +1,6 @@
+Web Scarfing:
+
+Web scraping refers to the extraction of data from a website. This information is collected and then exported into a format that is more useful for the user. Be it a spreadsheet or an API.
+
+Automated web scrapers work in a rather simple but also complex way. After all, websites are built for humans to understand, not machines.Ideally, the user will go through the process of selecting the specific data they want from the page. For example, you might want to scrape an Amazon product page for prices and models but are not necessarily interested in product reviews.
+
