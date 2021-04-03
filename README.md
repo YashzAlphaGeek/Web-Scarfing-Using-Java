@@ -1,5 +1,4 @@
 # Web-Scarfing-Using-Java
-Web Scarfing using Java Code
 
 Web Scarfing refers to the extraction of data from a website. This information is collected and then exported into a format that is more useful for the user. Be it a spreadsheet or an API.
 Data displayed by most websites can only be viewed using a web browser. They do not offer the functionality to save a copy of this data for personal use. 
