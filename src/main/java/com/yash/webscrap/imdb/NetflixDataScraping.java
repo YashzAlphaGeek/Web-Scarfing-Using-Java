@@ -1,4 +1,4 @@
-package com.yash.webscrap.WebSurfing;
+package com.yash.webscrap.imdb;
 
 import java.io.IOException;
 
