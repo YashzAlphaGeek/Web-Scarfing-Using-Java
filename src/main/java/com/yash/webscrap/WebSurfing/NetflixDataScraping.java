@@ -10,7 +10,7 @@ import org.jsoup.select.Elements;
 /**
  * Created by Yashwanth
  */
-public class NetflixDataScarfer {
+public class NetflixDataScraping {
 
 	/**
 	 * @param args
