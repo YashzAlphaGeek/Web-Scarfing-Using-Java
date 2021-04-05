@@ -8,7 +8,7 @@ Web Scraping is the technique of automating this process, so that instead of man
 within a fraction of the time.
 
 
-![](https://github.com/Yashzyash/Web-Scarfing-Using-Java/blob/master/imgs/webscarfed_from_imdb.png)
+![](https://github.com/Yashzyash/Web-Scarfing-Using-Java/blob/master/imgs/webscraping_from_imdb.png)
 
 ![](https://github.com/YashzAlphaGeek/Web-Scarfing-Using-Java/blob/master/imgs/Console_Output.png)
 As shown in the above image, the most popular Netflix Series Information such as
